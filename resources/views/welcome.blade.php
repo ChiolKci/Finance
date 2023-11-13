@@ -13,7 +13,7 @@
 							<div class="container">
 								<div class="row">
 									<div class="banner-text al-left pos-left light">
-										<h2>АЛТАЙ ФИНАНС<strong></strong></h2>
+										<h2>АЛТАЙ ФИНАНСxxx<strong></strong></h2>
 										<h3>ХУРДАН, ШУУРХАЙ САНХҮҮГИЙН БАЙГУУЛЛАГА</h3>
 									</div>
 								</div>
